@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<colorGrading shadowsMaxLuminance="0.22" highlightsMinLuminance="0.40">
+
+<global>
+<saturation rgb="0.90 0.90 0.90" scale="1"/>
+<contrast rgb="1.05 1.05 1.05" scale="1"/>
+<gamma rgb="1 1 1" scale="1"/>
+<gain rgb="1.05 1.05 1.05" scale="1"/>
+</global>
+
+<shadows>
+<saturation rgb="0.95 0.95 1.0" scale="1"/>
+<contrast rgb="1.05 1.05 1.05" scale="1"/>
+<gamma rgb="1 1 1" scale="1"/>
+<gain rgb="0.95 0.95 1.05" scale="1"/>
+</shadows>
+
+<midtones>
+<saturation rgb="1 1 1" scale="1.03"/>
+<contrast rgb="1.05 1.05 1.05" scale="1"/>
+<gamma rgb="1 1 1" scale="1"/>
+<gain rgb="1 1 1" scale="1"/>
+</midtones>
+
+<highlights>
+<saturation rgb="1.02 1.02 1.0" scale="1"/>
+<contrast rgb="1.05 1.05 1.05" scale="1"/>
+<gamma rgb="1 1 1" scale="1"/>
+<gain rgb="1.05 1.04 1.02" scale="1"/>
+</highlights>
+
+</colorGrading>
